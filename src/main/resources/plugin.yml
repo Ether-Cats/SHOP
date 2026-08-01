@@ -1,0 +1,9 @@
+name: shop
+version: '1.0'
+main: top.etca.shop.shop
+api-version: '1.21'
+depend: [Vault]
+commands:
+  shop:
+    description: 打开玩家商店主菜单
+    usage: /shop
