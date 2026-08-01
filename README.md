@@ -4,6 +4,29 @@
 
 ---
 
+## 截图展示(有点多)
+<img width="321" height="79" alt="Image" src="https://github.com/user-attachments/assets/7300e886-5aad-479d-ba12-9a38465e313c" />
+
+<img width="387" height="69" alt="Image" src="https://github.com/user-attachments/assets/94daf4ec-38b9-4bb3-9e68-2632df78ec7c" />
+
+<img width="370" height="76" alt="Image" src="https://github.com/user-attachments/assets/d5b43e6f-29a2-4985-9758-10f73116489f" />
+
+<img width="321" height="79" alt="Image" src="https://github.com/user-attachments/assets/876cd5bd-ea81-4482-8afd-ecb3698dce19" />
+
+<img width="376" height="160" alt="Image" src="https://github.com/user-attachments/assets/2eeebee7-4a25-4461-896e-ed52c56112cf" />
+
+<img width="377" height="187" alt="Image" src="https://github.com/user-attachments/assets/bd46efa7-e0e7-43db-b038-7d44bbc0e8a8" />
+
+<img width="378" height="165" alt="Image" src="https://github.com/user-attachments/assets/faba7daf-e56c-4547-8a72-c618ea927e34" />
+
+<img width="477" height="160" alt="Image" src="https://github.com/user-attachments/assets/be3290ba-5211-43aa-bff0-e38d87628360" />
+
+<img width="402" height="166" alt="Image" src="https://github.com/user-attachments/assets/5a167388-3e80-4723-8120-6e3a30a89ff3" />
+
+<img width="384" height="165" alt="Image" src="https://github.com/user-attachments/assets/3dd98a30-d78b-47b8-9afc-8b433b417e43" />
+
+---
+
 ## ✨ 主要功能
 
 - **箱子 GUI 全交互**：拒绝繁琐指令，商品上架、数量/单价调整（红绿蓝玻璃板调控）、翻页、购买全由可视化界面完成。
